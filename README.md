@@ -17,15 +17,15 @@ hele nettsiden er en log inn side. jeg ahr implementert hash-in får passord
 
 ## Brukertest
 
-# utvikling
+### utvikling
 * lage og begrunne funksjonelle krav til en IT-løsning basert på behovskartlegging
 * gjøre rede for hensikten med teknisk dokumentasjon og utarbeide teknisk dokumentasjon for IT-løsninger
 
-# drift
+### drift
 * planlegge og dokumentere arbeidsprosesser og IT-løsninger
 * planlegge, drifte og implementere IT-løsninger som ivaretar informasjonssikkerhet og gjeldende regelverk for personvern
 
-# brukerstøte
+### brukerstøte
 * gjøre rede for og anvende etiske retningslinjer og relevant lovverk i eget arbeid
 * beskrive og bruke rammeverk for kvalitetssikring av IT-drift
 * bruke og administrere samhandlingsverktøy som effektiviserer samarbeid og deling av informasjon
