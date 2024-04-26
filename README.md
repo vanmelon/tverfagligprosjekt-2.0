@@ -43,7 +43,7 @@ hele nettsiden er en log inn side. jeg ahr implementert hash-in får passord
 
 
 # Litteaturliste
-chatGPT: https://chat.openai.com
-w3schools: https://www.w3schools.com/php/default.asp
-proxmox:
-youtube:https://www.youtube.com
+* chatGPT: https://chat.openai.com
+* w3schools: https://www.w3schools.com/php/default.asp
+* proxmox:
+* youtube:https://www.youtube.com
