@@ -15,7 +15,6 @@ hele nettsiden er en log inn side. jeg ahr implementert hash-in får passord
 
 ## kompetangsemål
 
-## Brukertest
 
 ### utvikling
 * lage og begrunne funksjonelle krav til en IT-løsning basert på behovskartlegging
@@ -29,6 +28,9 @@ hele nettsiden er en log inn side. jeg ahr implementert hash-in får passord
 * gjøre rede for og anvende etiske retningslinjer og relevant lovverk i eget arbeid
 * beskrive og bruke rammeverk for kvalitetssikring av IT-drift
 * bruke og administrere samhandlingsverktøy som effektiviserer samarbeid og deling av informasjon
+
+
+## Brukertest
 
 ### Oppgaver til brukeren
 1. kan du logge deg inn
