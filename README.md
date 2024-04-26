@@ -29,7 +29,6 @@ hele nettsiden er en log inn side. jeg ahr implementert hash-in får passord
 
 # Litteaturliste
 chatGPT: https://chat.openai.com
-w3schools: 
+w3schools: https://www.w3schools.com/php/default.asp
 proxmox:
-
-youtube: (ekstremt nytig) https://www.youtube.com/watch?v=LpoSy091wYI&list=PLKGarocXCE1HrC60yuTNTGRoZc6hf5Uvl&index=2
+youtube:https://www.youtube.com
